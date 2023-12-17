@@ -1,0 +1,1 @@
+A machine learning project on stock market price prediction using twitter sentiment analysis. Tweets are collected and analysed. Machine learning algorithms are applied to predict future stock prices.
